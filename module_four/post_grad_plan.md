@@ -18,12 +18,23 @@ Design a 40-hour "work week" that provides time for:
 
 How much time will you spend on each? When will you do each thing?
 
-**Action Step #1:** Establish a shareable calendar (like Google Calendar) and block out time on your calendar *now* to adhere to these goals. Be prepared to show this calendar to your instructors during your portfolio review.
+**Action Step #1:** Establish a shareable calendar (like Google Calendar) and block out time on your calendar *now* to adhere to these goals. Be prepared to show this calendar to your instructors during your portfolio review.  
 
-**Action Step #2:** Backwards plan for your big goal. What is your cut-off for ending the job search? When do you want to receive and sign an offer by?
+-[Link to Calendar](https://calendar.google.com/calendar?cid=bW03NXYxdGZnbWlnbXVqODgyNjNxdDI3ajhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+
+**Action Step #2:** Backwards plan for your big goal. What is your cut-off for ending the job search? When do you want to receive and sign an offer by?  
+
+-I would like to have a recieved and signed an offer by January 31st. 
 
 
-**Action Step #3:** Based on what you outlined above, create monthly, weekly, and daily goals to reach in order to reach your big goal:
+**Action Step #3:** Based on what you outlined above, create monthly, weekly, and daily goals to reach in order to reach your big goal:  
+
+**I believe that going to the two meetups that I'm going to will give me the most impact as it will give me immediate facetime with developers.**
+
+- Denver Droids
+- Code for Denver
+- Bootcampers Collective
+
 
 
 Keep in mind:
@@ -33,35 +44,53 @@ Keep in mind:
 
 ### Coding
 For time spent coding during your first 30 days post-grad, consider: 
-* What skills would you like to improve or develop? 
-* Are there areas from Turing's program that you feel weaker in? How will you level up? 
-* Are there new languages or technologies you'd like to learn? How and when will you do that?
+* What skills would you like to improve or develop?  **I would like to keep my testing skills sharp. I will take time to create a testing suite for my MFP backend, allowing me to test API calls as well as Authentication. I could also stand to learn how to test Javascript, particularly react components.**
+
+* Are there areas from Turing's program that you feel weaker in? How will you level up?  **One area that I need to continue working is my sorting algorithms. I could definitely stand to practice re-learning how to set all those up, especially merge sort. Another area that I need to continue working on is testing. I can really claim that I really enjoy/know testing if I don't understand JavaScript testing.**
+
+* Are there new languages or technologies you'd like to learn? How and when will you do that?  **I would like to focus on Java development for native android apps, as well as redux since it can help my react-native app.**
 
 **Action Step:** Establish a “daily-practice” repository where you’ll put small daily exercises or work on issues from your own projects that you want to update to keep your skills sharp and your GitHub activity chart active. For your Mod 4 portfolio review, be prepared to describe to your instructors what you plan to work on to sharpen and advance your coding skills for the first 30 days of your job search. 
+
+[Link to Daily Practice Repo](github.com:rickyamparo/daily_practice)
 
 ### Outreach & Networking
 As we've discussed, meeting people, forming relationships, and having conversations are the key pieces to getting your foot in the door at any company. It's important to be proactive in your approach to outreach and networking to stay on track during your first 30 days.
 
 **Action Step #1:** Identify at least 3 individuals from companies you're tracking who could connect with during your first 30 days. Describe why you want to connect with these people and what you hope to talk about, when you will email them by, and what your follow-up will look like once you've met with them. 
 
+* Mike from Possible Mobile. He organizes the Denver Droid Meetups and I've met him before. I have also contacted him and asked him for help getting started with java dev. He provided me with a wealth of resources and I'm going to begin working on them next week. I will be going to the Denver Droids meetup with any questions I have on the material he gave me. 
+
 **Action Step #2:** Find 3 new meetups or other career networking events to join during your first 30 days post-grad and describe why you'll attend those particular events. How will attending these meetups benefit you in your job search? How can you contribute to the community of these meetups? If you're interested in speaking at any of these meetups, describe how you'll connect with the organizers to arrange that and give a brief (2-3 sentences) pitch on what you might talk about and why. 
+
+* Denver Droids - January 17th. I have already gone once in November, and have been talking to the dev who runs it. 
+* Code For Denver - January 15th. I haven't been yet, however I am interested in their cause.
+* Bootcampers Collective - January 18th. Social settings with boot camp graduates, bonus Mike Heft will be there. 
 
 ### Job/Company Research & Tracking
 Success in the job search means staying organized. The best way to do that is to have a clear system to keep track of your contacts, research, and updates on what you're doing. 
 
 **Action Step:** Show how you've set up [jobtrack.io](https://jobtrack.io/) to keep track of all your company/job outreach, who you talked to, what you learned, what next steps you'll take to follow-up, and anything you might do differently next time. Be prepared to describe this system to your instructors during your portfolio review. 
 
+[Link to Jobtrack](https://jobtrack.io/a/applications)
+
 ### Interview Prep
 During this module, you've had multiple opportunities to practice your technical and cultural interviewing skills. Think about how those experiences have helped you identify strengths and weaknesses in your interviewing skills.
 
 **Action Step:** Identify 2-3 areas you'd like to continue to improve on for interviewing and outline concrete action steps on how you will improve those skills. If you plan on setting up more mock interviews, identify who you will set those up with and by what date. 
+
+**I want to become familiar with various technical concepts that could be asked in an interview. One step that will help me in this effort is that I have subscribed to Ian's tech interview prep email list. I will be recieving these emails every morning and reviewing them before beginning my daily work. I have even incorporated time into my schedule to view these emails and begin to become acquainted with various technical concepts.**
 
 ### Housekeeping
 Make sure you have all your job search components up-to-date and looking their best!
 
 **Action Step #1:** Ensure your [Turing Portfolio](http://turing.io/alumni) has **at least 3 projects displayed,** including your latest work, and an accurate list of your desired locations. Be prepared to show this to your instructors during your M4 portfolio review. 
 
+**My current portfolio is updated with 3 works, however I would like to wait to add my capstone. I need to finish editing it so that I can get a series of videos and screenshots capturing it at its best shape.**
+
 **Action Step #2:** Ensure your LinkedIn is up to date and indicates that you’re job hunting. Indicate here a summary of any adjustments you made and how you'll continue to update it and/or use the site to build your network and online presence. 
+
+**LinkedIn will be my primary means of making cold outreachs, however I know that I cannot soley rely on linkedIn for connections. I believe it will be more effective to leverage connections made during meetups.**
 
 ### Other
 What other areas would you like to focus on during your job search? Some possible ideas include:
@@ -70,17 +99,25 @@ What other areas would you like to focus on during your job search? Some possibl
 * Planning and submitting meetup and/or conference talks
 * Participating in hackathons or open source projects
 
+**I mainly want to participate in contributing to the open source project of Pokemon Showdown. It has been very fun to be able to contribute to something that I used regularly.**
+
 **Action Step:** Identify one of the areas above or an additional area that you'd like to develop further during your first 30 days post-grad and be prepared to discuss this with your instructors at your portfolio review. 
+
+**I want to take a stab at creating more technical blogs. I believe it will be an excellent exercise for explaining technical concepts in greater detail and higher accuracy**
 
 ### Check-ins: Who are you talking to and when?
 Accountability is key during a job search and being able to check in with a person whom you trust (or, ideally, more than one person) on your progress will increase your ability to reach your goals in the timeline you've created. 
 
 **Action Step:** Identify 1-2 people you'll check in with during your first 30 days post-grad. Consider how you might continue to utilize your PD Peer Groups. Describe why you will check in with this person, how you will check in with them, what you aim to talk about, and what you hope to get out of these check-ins to benefit your job search. 
 
+Mimi Le will be my accountablity partner as we move into postgrad. Our checkins will consist of morning checkins to confirm that we're both beginning the day's work. We will start to go through our our respective schedules and we will check with each other on message tone and content for applications and outreaches. I want to check in with this person because she is someone that I would not want to let down, therefore I know that I will give my all to meet and match my percieved image of her, which is great because she is amazing. 
+
 ### Identifying & Overcoming Barriers
 While you've made concrete plans for how to achieve your goal, it's also important to take stock of what could hold you back in the job search. 
 
 **Action Step:** Identify 1-2 "barriers" you might put on yourself in this job search as well as the steps you will take to overcome them. Be prepared to describe these in your M4 portfolio review. 
+
+Primary barrier during this job hunt phase is that I will no longer have funds to support myself. My current plan is to find a part time job that I can work nights and weekends. This will allow me to have time to devote to the job hunt during weekdays. I'm afraid of this because I will be spreading myself thin with little time for rest. 
 
 ## #2: Supporting Others in Your Cohort in Their Job Search
 *Fill out this part only if you have already secured a job prior to graduation.*
